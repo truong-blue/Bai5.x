@@ -61,7 +61,6 @@
 ## IV. HƯỚNG DẪN CÀI ĐẶT & CHẠY DỰ ÁN
 
 1. Clone Repository về máy:
-```bash
 git clone [https://github.com/truong-blue/Bai_Tap_12_10.git](https://github.com/truong-blue/Bai5.x.git)
 2. Import file CSDL database/QuanLyHeThongDB.sql vào MySQL / phpMyAdmin trong XAMPP.
 3. Mở file solution src/WinFormsAppSolution.sln bằng Visual Studio 2019.
