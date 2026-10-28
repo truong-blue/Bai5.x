@@ -58,3 +58,11 @@
 
 ![Cập nhật CSDL MySQL](docs/Bai5.2_update_dtb.png)
 *Mô tả: Dữ liệu học viên mới tự động đồng bộ và hiển thị trên giao diện quản lý CSDL phpMyAdmin.*
+## IV. HƯỚNG DẪN CÀI ĐẶT & CHẠY DỰ ÁN
+
+1. Clone Repository về máy:
+```bash
+git clone [https://github.com/truong-blue/Bai_Tap_12_10.git](https://github.com/truong-blue/Bai5.x.git)
+2. Import file CSDL database/QuanLyHeThongDB.sql vào MySQL / phpMyAdmin trong XAMPP.
+3. Mở file solution src/WinFormsAppSolution.sln bằng Visual Studio 2019.
+4. Bấm F5 hoặc chọn Start để biên dịch và chạy chương trình.
